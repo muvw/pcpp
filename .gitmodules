@@ -1,3 +1,6 @@
 [submodule "3rd/curl"]
 	path = 3rd/curl
 	url = https://github.com/muvw/curl.git
+[submodule "3rd/hiredis"]
+	path = 3rd/hiredis
+	url = https://github.com/muvw/hiredis.git
